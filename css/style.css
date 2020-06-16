@@ -6,7 +6,8 @@ body {
     background-color: #808080;
 }
 
-div {width: 150px;
+div {
+    width: 150px;
     height: 150px;
     margin-bottom: 10px;
     background-color: #fea500;
